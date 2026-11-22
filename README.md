@@ -69,4 +69,4 @@ All the users in the sample data are fictional.
 
 ## Team
 
-Developed as a team project by José Trujillo Medina, [teammate] and [teammate].
+Developed as a team project by José Trujillo Medina, Antonio and Carlos.
